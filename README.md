@@ -22,13 +22,14 @@ SBOM을 이용한 취약점 식별 자동화 시스템 <br> Automation System fo
 | **강민식** | **김도현** | **최수호** | **최영훈** |
 | :------: |  :------: | :------: | :------: |
 | [<img src="https://avatars.githubusercontent.com/u/127810857?v=4" height=150 width=150> <br/> @MynameisMansik](https://github.com/MynameisMansik) | [<img src="https://avatars.githubusercontent.com/u/118159407?v=4" height=150 width=150> <br/> @Dxhyeon](https://github.com/Dxhyeon) | [<img src="https://avatars.githubusercontent.com/u/71062855?v=4" height=150 width=150> <br/> @S4nso](https://github.com/S4nso) | <img src="https://github.com/Dxhyeon/cbom-project/assets/118159407/939243a3-2385-4412-8b76-614a80972694" height=150 width=150> <br/> 최영훈 |
+|Front-end Develop|Back-end Develop|Back-end Develop|Front-end Develop|
 
 </div>
 
 <br>
 
 ## 1. 개발 환경
-- Front : Django, Bootstrap, Chart.js
+- Front-end : Django, Bootstrap, Chart.js
 - Back-end : Python, Django
 - Database : MariaDB
 - 협업 툴 : Notion, Discord, Github
