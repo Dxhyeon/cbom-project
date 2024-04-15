@@ -6,11 +6,16 @@ SBOM을 이용한 취약점 식별 자동화 시스템 <br> Automation System fo
 </div>
 <br>
 
-## 1. 프로젝트 소개
+## 프로젝트 소개
 
+ - CBOM은 SBOM을 이용하여 소프트웨어의 취약점을 식별하고 투명성을 검증할 수 있는 솔루션입니다.
+ - 취약점 식별 외에도 소프트웨어에 사용된 오픈소스와 라이선스를 확인할 수 있습니다.
+ - 대시보드를 통해 취약점 식별 결과를 한눈에 확인할 수 있습니다.
+ - 취약점 식별 결과와 SBOM 정보를 Report로 저장할 수 있습니다.
+ 
 <br>
 
-## 2. 팀원 구성
+## 팀원 구성
 
 <div align="center">
 
@@ -22,7 +27,14 @@ SBOM을 이용한 취약점 식별 자동화 시스템 <br> Automation System fo
 
 <br>
 
-## 3. 개발 기간 및 작업 관리
+## 1. 개발 환경
+- Front : Django, Bootstrap, Chart.js
+- Back-end : Python, Django
+- Database : MariaDB
+- 협업 툴 : Notion, Discord, Github
+<br>
+
+## 2. 개발 기간 및 작업 관리
 
 ### 개발 기간
 
@@ -38,7 +50,7 @@ SBOM을 이용한 취약점 식별 자동화 시스템 <br> Automation System fo
 
 <br>
 
-## 4. 프로젝트 구성도
+## 3. 프로젝트 구성도
 
 ![image](https://github.com/Dxhyeon/cbom-project/assets/118159407/04d74e46-712d-4a58-922f-f3c38c5ec333)
 
@@ -51,4 +63,4 @@ SBOM을 이용한 취약점 식별 자동화 시스템 <br> Automation System fo
 
 <br>
 
-## 5. 페이지별 기능
+## 4. 페이지별 기능
