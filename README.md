@@ -4,14 +4,13 @@
 ![대시보드1](https://github.com/Dxhyeon/cbom-project/assets/118159407/803a765e-ea6e-4f66-94cb-f4f89b3826eb)
 SBOM을 이용한 취약점 식별 자동화 시스템 <br> Automation System for Vulnerability Identification Using SBOM
 </div>
+<br>
 
+## 1. 프로젝트 소개
 
-## 목차
+<br>
 
-
-## 프로젝트 소개
-
-## 팀원 구성
+## 2. 팀원 구성
 
 <div align="center">
 
@@ -23,7 +22,7 @@ SBOM을 이용한 취약점 식별 자동화 시스템 <br> Automation System fo
 
 <br>
 
-## 개발 기간 및 작업 관리
+## 3. 개발 기간 및 작업 관리
 
 ### 개발 기간
 
@@ -35,10 +34,11 @@ SBOM을 이용한 취약점 식별 자동화 시스템 <br> Automation System fo
 ### 작업 관리
 
  - Notion과 Discord를 사용하여 진행 상황을 공유하였습니다.
- - 매 주 대면 회의를 통해 작업 순서에 대하여 논의하고, Trouble Shooting을 진행하였습니다.
+ - 매 주 대면 회의를 진행하며 작업 순서에 대하여 논의하고, Trouble Shooting을 진행하였습니다.
 
+<br>
 
-## 프로젝트 구성도
+## 4. 프로젝트 구성도
 
 ![image](https://github.com/Dxhyeon/cbom-project/assets/118159407/04d74e46-712d-4a58-922f-f3c38c5ec333)
 
@@ -49,4 +49,6 @@ SBOM을 이용한 취약점 식별 자동화 시스템 <br> Automation System fo
 |3. 취약점 식별 및 분석|CVE와 CWE 데이터를 활용하여 오픈 소스 패키지의 취약점을 식별하고 해당 취약점 내용 추출하여 저장|
 |4. 시각적 결과 제공|취약점 분석 결과는 웹 플랫폼을 통해 사용자에게 시각적으로 제공|
 
-## 페이지별 기능
+<br>
+
+## 5. 페이지별 기능
