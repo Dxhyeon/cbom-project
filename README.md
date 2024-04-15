@@ -34,7 +34,13 @@ SBOM을 이용한 취약점 식별 자동화 시스템 <br> Automation System fo
 - 협업 툴 : Notion, Discord, Github
 <br>
 
-## 2. 개발 기간 및 작업 관리
+## 2. SBOM
+
+
+
+<br>
+
+## 3. 개발 기간 및 작업 관리
 
 ### 개발 기간
 
