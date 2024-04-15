@@ -62,7 +62,7 @@ SBOM(Software Bill Of Materials)은 소프트웨어의 구성 요소 및 종속�
 
 <br>
 
-## 3. 프로젝트 구성도
+## 4. 프로젝트 구성도
 
 ![image](https://github.com/Dxhyeon/cbom-project/assets/118159407/04d74e46-712d-4a58-922f-f3c38c5ec333)
 
@@ -75,4 +75,4 @@ SBOM(Software Bill Of Materials)은 소프트웨어의 구성 요소 및 종속�
 
 <br>
 
-## 4. 페이지별 기능
+## 5. 페이지별 기능
