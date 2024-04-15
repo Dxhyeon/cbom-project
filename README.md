@@ -1,8 +1,10 @@
 <div align="center">
 <h1>😉CBOM</h1>
   
-![대시보드1](https://github.com/Dxhyeon/cbom-project/assets/118159407/803a765e-ea6e-4f66-94cb-f4f89b3826eb)
 SBOM을 이용한 취약점 식별 자동화 시스템 <br> Automation System for Vulnerability Identification Using SBOM
+
+![대시보드1](https://github.com/Dxhyeon/cbom-project/assets/118159407/803a765e-ea6e-4f66-94cb-f4f89b3826eb)
+
 </div>
 
 <br>
