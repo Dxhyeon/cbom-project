@@ -93,3 +93,128 @@ SBOM은 소프트웨어의 투명성을 높이고, 보안 전문가가 취약점
 <br>
 
 ## 5. 페이지별 기능
+
+### [초기화면]
+
+- 접속 초기화면인 서비스 소개 페이지입니다.
+- SBOM에 대한 정보와 중요성, 서비스의 설명이 소개되어 있습니다.
+
+| 초기화면 |
+|----------|
+|![1online-video-cutter com-ezgif com-video-to-gif-converter (1)](https://github.com/Dxhyeon/cbom-project/assets/118159407/07467606-44a9-4cda-a16d-f0baf8c3c7ed)|
+
+<br>
+
+### [대시보드]
+
+#### 1. 취약점 식별
+
+- SBOM을 업로드하여 취약점을 식별합니다.
+- 핵심 결과를 시각화하여 가독성을 높혔습니다.
+  
+| 취약점 식별 결과 |
+|----------|
+|![1online-video-cutter com1-ezgif com-video-to-gif-converter](https://github.com/Dxhyeon/cbom-project/assets/118159407/7ba4bc91-6660-4137-be39-1b66cba5c249)|
+
+<br>
+
+#### 2. CVE 페이지 호출
+
+- 식별된 취약점에 대한 CVE 페이지를 호출합니다.
+- CVE의 자세한 내용을 확인할 수 있습니다.
+
+| CVE 페이지 호출 |
+|----------|
+|![1online-video-cutter com2-ezgif com-video-to-gif-converter](https://github.com/Dxhyeon/cbom-project/assets/118159407/179617ae-3623-40d8-ad2e-d9464bc6b98c)|
+
+<br>
+
+### [SBOM List]
+
+- SBOM의 자세한 정보를 확인할 수 있습니다.
+- 컴포넌트 이름과 버전, 제공자, 라이센스 정보, 해쉬값이 포함되어 있습니다.
+
+| SBOM Detailed Information |
+|----------|
+|![1online-video-cutter com4-ezgif com-video-to-gif-converter (1)](https://github.com/Dxhyeon/cbom-project/assets/118159407/56de65d8-ce3e-4deb-ac9f-c322e0468124)|
+
+### [vulnerability List]
+
+#### 1. 식별된 취약점 정보 확인
+
+- 식별된 취약점의 자세한 정보를 확인할 수 있습니다.
+- CVE ID, CWE ID, Description, Risk Score, Risk Level을 제공합니다. ( National Vulnerability Database  기준 )
+
+| Vulnerability Detailed Information |
+|----------|
+|![1-ezgif com-video-to-gif-converter](https://github.com/Dxhyeon/cbom-project/assets/118159407/81d60af4-450e-4513-a89b-d94feb32730f)|
+
+<br>
+
+#### 2. CWE 페이지 호출
+
+- 식별된 취약점에 대한 CWE 페이지를 호출합니다.
+- CWE의 자세한 내용을 확인할 수 있습니다.
+
+| CWE 페이지 호출 |
+|----------|
+|![2-ezgif com-video-to-gif-converter](https://github.com/Dxhyeon/cbom-project/assets/118159407/34a3308f-61ef-4041-aa66-d8d32fa82a36)|
+
+<br>
+
+### [License List]
+
+#### 1. 사용 라이선스 정보 확인
+
+- 사용된 라이선스의 정보를 확인할 수 있습니다.
+- 사용 의무 사항과 Description을 제공합니다.
+
+| License Detailed Information |
+|----------|
+|![12-ezgif com-video-to-gif-converter](https://github.com/Dxhyeon/cbom-project/assets/118159407/c6d2c1de-ca70-4a37-8ef4-42d469a922cb)|
+
+<br>
+
+#### 2. 라이선스 페이지 호출
+
+- 사용된 라이선스에 대한 페이지를 호출합니다.
+- 라이선스의 자세한 내용을 확인할 수 있습니다.
+
+| License 페이지 호출 |
+|----------|
+|![13-ezgif com-video-to-gif-converter](https://github.com/Dxhyeon/cbom-project/assets/118159407/a11f31ca-9f60-484d-a75a-584930bfcbc8)|
+
+<br>
+
+### [Generate Report]
+
+- 취약점 식별 결과와 SBOM 정보를 Report로 저장합니다.
+
+| Generate Report |
+|----------|
+|![14-ezgif com-video-to-gif-converter](https://github.com/Dxhyeon/cbom-project/assets/118159407/871cd40c-f155-4d38-a794-e2acb802fccd)|
+
+<br>
+
+### 6. 향후 계획
+
+- 취약점 조치 방안 자동화
+  - 취약점 식별은 가능하나, 해당 취약점에 대한 대응 방안을 자세하게 알 수 없음
+  - AI를 통해 적절한 대응 방안을 제공할 수 있는 방향으로 계획
+
+<br>
+
+- 컴포넌트 무결성 검사
+   - SBOM의 컴포넌트 해시 값을 활용하지 못했음
+   - 검사를 통해 파일 변조 등 소프트웨어의 무결성 검증 
+
+<br>
+
+- 라이선스 충돌 탐지
+  - 라이선스에 대한 정보를 활용하지 못했음
+  - 사용된 오픈소스의 라이선스간의 충돌을 탐지하여 라이선스 양립성(Compatibility) 문제 해결
+
+
+
+
+  
