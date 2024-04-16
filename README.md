@@ -138,6 +138,8 @@ SBOM은 소프트웨어의 투명성을 높이고, 보안 전문가가 취약점
 |----------|
 |![1online-video-cutter com4-ezgif com-video-to-gif-converter (1)](https://github.com/Dxhyeon/cbom-project/assets/118159407/56de65d8-ce3e-4deb-ac9f-c322e0468124)|
 
+<br>
+
 ### [vulnerability List]
 
 #### 1. 식별된 취약점 정보 확인
