@@ -140,7 +140,7 @@ SBOM은 소프트웨어의 투명성을 높이고, 보안 전문가가 취약점
 
 <br>
 
-### [vulnerability List]
+### [Vulnerability List]
 
 #### 1. 식별된 취약점 정보 확인
 
