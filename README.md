@@ -32,6 +32,7 @@ SBOM을 이용한 취약점 식별 자동화 시스템 <br> Automation System fo
 <br>
 
 ## 1. 개발 환경
+- OS : Ubuntu Server 20.04 LTS
 - Front-end : Django, Bootstrap, Chart.js
 - Back-end : Python, Django
 - Database : MariaDB
